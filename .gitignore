@@ -200,10 +200,11 @@ cython_debug/
 *.png
 *.jpeg
 *.DS_Store
+*.pth
 
-results_video/
+results_video/tracklet_video/
+results/weights/
+results/finetuned_models/
 data/
-augmented/
-results/
 
 

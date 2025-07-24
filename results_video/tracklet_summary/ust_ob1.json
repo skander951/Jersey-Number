@@ -1,0 +1,851 @@
+{
+    "1459": {
+        "appearances": 324,
+        "top3": [
+            {
+                "number": 0,
+                "count": 195,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.027110240402538167
+            },
+            {
+                "number": 23,
+                "count": 30,
+                "avg_number_probs": 0.5859263300895691,
+                "avg_filtre_confidence": 0.5859263300895691
+            },
+            {
+                "number": 21,
+                "count": 28,
+                "avg_number_probs": 0.6022846406059605,
+                "avg_filtre_confidence": 0.6022846406059605
+            }
+        ]
+    },
+    "1503": {
+        "appearances": 71,
+        "top3": [
+            {
+                "number": 0,
+                "count": 71,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 5.134149204368684e-05
+            }
+        ]
+    },
+    "1504": {
+        "appearances": 296,
+        "top3": [
+            {
+                "number": 0,
+                "count": 224,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.01957392999415839
+            },
+            {
+                "number": 8,
+                "count": 44,
+                "avg_number_probs": 0.7510850097645413,
+                "avg_filtre_confidence": 0.7510850097645413
+            },
+            {
+                "number": 9,
+                "count": 13,
+                "avg_number_probs": 0.7616034860794361,
+                "avg_filtre_confidence": 0.7616034860794361
+            }
+        ]
+    },
+    "1505": {
+        "appearances": 325,
+        "top3": [
+            {
+                "number": 0,
+                "count": 301,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.009301552091238336
+            },
+            {
+                "number": 13,
+                "count": 6,
+                "avg_number_probs": 0.5018498177329699,
+                "avg_filtre_confidence": 0.5018498177329699
+            },
+            {
+                "number": 11,
+                "count": 6,
+                "avg_number_probs": 0.37624375770489377,
+                "avg_filtre_confidence": 0.37624375770489377
+            }
+        ]
+    },
+    "1506": {
+        "appearances": 591,
+        "top3": [
+            {
+                "number": 0,
+                "count": 393,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.009416187812344637
+            },
+            {
+                "number": 3,
+                "count": 132,
+                "avg_number_probs": 0.905857676357934,
+                "avg_filtre_confidence": 0.905857676357934
+            },
+            {
+                "number": 7,
+                "count": 21,
+                "avg_number_probs": 0.44650485402061824,
+                "avg_filtre_confidence": 0.44650485402061824
+            }
+        ]
+    },
+    "1507": {
+        "appearances": 61,
+        "top3": [
+            {
+                "number": 0,
+                "count": 61,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.00018150691747379069
+            }
+        ]
+    },
+    "1508": {
+        "appearances": 320,
+        "top3": [
+            {
+                "number": 0,
+                "count": 307,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0077838751066501765
+            },
+            {
+                "number": 4,
+                "count": 5,
+                "avg_number_probs": 0.6794300079345703,
+                "avg_filtre_confidence": 0.6794300079345703
+            },
+            {
+                "number": 2,
+                "count": 3,
+                "avg_number_probs": 0.4230702916781108,
+                "avg_filtre_confidence": 0.4230702916781108
+            }
+        ]
+    },
+    "1509": {
+        "appearances": 242,
+        "top3": [
+            {
+                "number": 0,
+                "count": 242,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 5.050941934735216e-06
+            }
+        ]
+    },
+    "1510": {
+        "appearances": 241,
+        "top3": [
+            {
+                "number": 0,
+                "count": 115,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.03614489173330575
+            },
+            {
+                "number": 29,
+                "count": 30,
+                "avg_number_probs": 0.4791196629405022,
+                "avg_filtre_confidence": 0.4791196629405022
+            },
+            {
+                "number": 28,
+                "count": 22,
+                "avg_number_probs": 0.5531308115883307,
+                "avg_filtre_confidence": 0.5531308115883307
+            }
+        ]
+    },
+    "1511": {
+        "appearances": 252,
+        "top3": [
+            {
+                "number": 0,
+                "count": 239,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.002113783216656635
+            },
+            {
+                "number": 5,
+                "count": 8,
+                "avg_number_probs": 0.6234383974224329,
+                "avg_filtre_confidence": 0.6234383974224329
+            },
+            {
+                "number": 3,
+                "count": 3,
+                "avg_number_probs": 0.591480165719986,
+                "avg_filtre_confidence": 0.591480165719986
+            }
+        ]
+    },
+    "1512": {
+        "appearances": 216,
+        "top3": [
+            {
+                "number": 0,
+                "count": 214,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0014172057671021576
+            },
+            {
+                "number": 10,
+                "count": 1,
+                "avg_number_probs": 0.5252920389175415,
+                "avg_filtre_confidence": 0.5252920389175415
+            },
+            {
+                "number": 5,
+                "count": 1,
+                "avg_number_probs": 0.7533825039863586,
+                "avg_filtre_confidence": 0.7533825039863586
+            }
+        ]
+    },
+    "1513": {
+        "appearances": 148,
+        "top3": [
+            {
+                "number": 0,
+                "count": 148,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 1.118875180801253e-08
+            }
+        ]
+    },
+    "1514": {
+        "appearances": 177,
+        "top3": [
+            {
+                "number": 0,
+                "count": 175,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.005923019762675809
+            },
+            {
+                "number": 9,
+                "count": 1,
+                "avg_number_probs": 0.26822811365127563,
+                "avg_filtre_confidence": 0.26822811365127563
+            },
+            {
+                "number": 2,
+                "count": 1,
+                "avg_number_probs": 0.32924792170524597,
+                "avg_filtre_confidence": 0.32924792170524597
+            }
+        ]
+    },
+    "1515": {
+        "appearances": 140,
+        "top3": [
+            {
+                "number": 0,
+                "count": 136,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.009570665191927254
+            },
+            {
+                "number": 4,
+                "count": 2,
+                "avg_number_probs": 0.65625861287117,
+                "avg_filtre_confidence": 0.65625861287117
+            },
+            {
+                "number": 2,
+                "count": 2,
+                "avg_number_probs": 0.2453148066997528,
+                "avg_filtre_confidence": 0.2453148066997528
+            }
+        ]
+    },
+    "1516": {
+        "appearances": 71,
+        "top3": [
+            {
+                "number": 0,
+                "count": 71,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 1.5797260068919163e-08
+            }
+        ]
+    },
+    "1517": {
+        "appearances": 106,
+        "top3": [
+            {
+                "number": 0,
+                "count": 106,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0022096044834729895
+            }
+        ]
+    },
+    "1518": {
+        "appearances": 187,
+        "top3": [
+            {
+                "number": 0,
+                "count": 182,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.008381800972040342
+            },
+            {
+                "number": 14,
+                "count": 2,
+                "avg_number_probs": 0.49619060754776,
+                "avg_filtre_confidence": 0.49619060754776
+            },
+            {
+                "number": 11,
+                "count": 1,
+                "avg_number_probs": 0.6285814642906189,
+                "avg_filtre_confidence": 0.6285814642906189
+            }
+        ]
+    },
+    "1519": {
+        "appearances": 371,
+        "top3": [
+            {
+                "number": 0,
+                "count": 370,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.003280051620192554
+            },
+            {
+                "number": 9,
+                "count": 1,
+                "avg_number_probs": 0.5371500849723816,
+                "avg_filtre_confidence": 0.5371500849723816
+            }
+        ]
+    },
+    "1522": {
+        "appearances": 517,
+        "top3": [
+            {
+                "number": 0,
+                "count": 479,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.015170671893741994
+            },
+            {
+                "number": 3,
+                "count": 7,
+                "avg_number_probs": 0.6632835822446006,
+                "avg_filtre_confidence": 0.6632835822446006
+            },
+            {
+                "number": 13,
+                "count": 6,
+                "avg_number_probs": 0.68580395479997,
+                "avg_filtre_confidence": 0.68580395479997
+            }
+        ]
+    },
+    "1524": {
+        "appearances": 347,
+        "top3": [
+            {
+                "number": 0,
+                "count": 300,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0030129038622832625
+            },
+            {
+                "number": 9,
+                "count": 13,
+                "avg_number_probs": 0.41592517036658067,
+                "avg_filtre_confidence": 0.41592517036658067
+            },
+            {
+                "number": 3,
+                "count": 9,
+                "avg_number_probs": 0.4163939191235436,
+                "avg_filtre_confidence": 0.4163939191235436
+            }
+        ]
+    },
+    "1525": {
+        "appearances": 98,
+        "top3": [
+            {
+                "number": 3,
+                "count": 67,
+                "avg_number_probs": 0.8219152266409859,
+                "avg_filtre_confidence": 0.8219152266409859
+            },
+            {
+                "number": 0,
+                "count": 13,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 6.869059240678974e-05
+            },
+            {
+                "number": 9,
+                "count": 13,
+                "avg_number_probs": 0.6425704887280097,
+                "avg_filtre_confidence": 0.6425704887280097
+            }
+        ]
+    },
+    "1528": {
+        "appearances": 37,
+        "top3": [
+            {
+                "number": 0,
+                "count": 37,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 2.3068743664538847e-10
+            }
+        ]
+    },
+    "1531": {
+        "appearances": 1,
+        "top3": [
+            {
+                "number": 0,
+                "count": 1,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 9.569608039328159e-08
+            }
+        ]
+    },
+    "1534": {
+        "appearances": 160,
+        "top3": [
+            {
+                "number": 0,
+                "count": 158,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0005899501014415887
+            },
+            {
+                "number": 10,
+                "count": 2,
+                "avg_number_probs": 0.5036582499742508,
+                "avg_filtre_confidence": 0.5036582499742508
+            }
+        ]
+    },
+    "1535": {
+        "appearances": 57,
+        "top3": [
+            {
+                "number": 0,
+                "count": 57,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 1.2140766763808318e-08
+            }
+        ]
+    },
+    "1536": {
+        "appearances": 237,
+        "top3": [
+            {
+                "number": 0,
+                "count": 237,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0022016915155114018
+            }
+        ]
+    },
+    "1541": {
+        "appearances": 24,
+        "top3": [
+            {
+                "number": 0,
+                "count": 24,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 6.58201208350031e-06
+            }
+        ]
+    },
+    "1542": {
+        "appearances": 157,
+        "top3": [
+            {
+                "number": 0,
+                "count": 154,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.001865166849259735
+            },
+            {
+                "number": 2,
+                "count": 2,
+                "avg_number_probs": 0.26849132031202316,
+                "avg_filtre_confidence": 0.26849132031202316
+            },
+            {
+                "number": 10,
+                "count": 1,
+                "avg_number_probs": 0.2387024313211441,
+                "avg_filtre_confidence": 0.2387024313211441
+            }
+        ]
+    },
+    "1545": {
+        "appearances": 105,
+        "top3": [
+            {
+                "number": 0,
+                "count": 102,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.008158071908310785
+            },
+            {
+                "number": 10,
+                "count": 2,
+                "avg_number_probs": 0.6324398517608643,
+                "avg_filtre_confidence": 0.6324398517608643
+            },
+            {
+                "number": 14,
+                "count": 1,
+                "avg_number_probs": 0.5533944368362427,
+                "avg_filtre_confidence": 0.5533944368362427
+            }
+        ]
+    },
+    "1546": {
+        "appearances": 200,
+        "top3": [
+            {
+                "number": 0,
+                "count": 144,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.030131463468185366
+            },
+            {
+                "number": 5,
+                "count": 24,
+                "avg_number_probs": 0.6336939645310243,
+                "avg_filtre_confidence": 0.6336939645310243
+            },
+            {
+                "number": 3,
+                "count": 20,
+                "avg_number_probs": 0.7369601368904114,
+                "avg_filtre_confidence": 0.7369601368904114
+            }
+        ]
+    },
+    "1547": {
+        "appearances": 3,
+        "top3": [
+            {
+                "number": 0,
+                "count": 3,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.00018277984349879262
+            }
+        ]
+    },
+    "1552": {
+        "appearances": 59,
+        "top3": [
+            {
+                "number": 0,
+                "count": 59,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 4.905575505963205e-06
+            }
+        ]
+    },
+    "1553": {
+        "appearances": 313,
+        "top3": [
+            {
+                "number": 0,
+                "count": 313,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.000429813819180898
+            }
+        ]
+    },
+    "1556": {
+        "appearances": 1,
+        "top3": [
+            {
+                "number": 0,
+                "count": 1,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 1.9573993537136403e-09
+            }
+        ]
+    },
+    "1557": {
+        "appearances": 28,
+        "top3": [
+            {
+                "number": 0,
+                "count": 28,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 1.4285659679040355e-05
+            }
+        ]
+    },
+    "1558": {
+        "appearances": 18,
+        "top3": [
+            {
+                "number": 0,
+                "count": 18,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 6.3737277863474955e-06
+            }
+        ]
+    },
+    "1559": {
+        "appearances": 38,
+        "top3": [
+            {
+                "number": 0,
+                "count": 18,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.005017464385205993
+            },
+            {
+                "number": 20,
+                "count": 12,
+                "avg_number_probs": 0.5818487107753754,
+                "avg_filtre_confidence": 0.5818487107753754
+            },
+            {
+                "number": 28,
+                "count": 4,
+                "avg_number_probs": 0.6129613742232323,
+                "avg_filtre_confidence": 0.6129613742232323
+            }
+        ]
+    },
+    "1564": {
+        "appearances": 26,
+        "top3": [
+            {
+                "number": 0,
+                "count": 26,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 8.11857537121575e-08
+            }
+        ]
+    },
+    "1565": {
+        "appearances": 252,
+        "top3": [
+            {
+                "number": 0,
+                "count": 203,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.014344609804520484
+            },
+            {
+                "number": 29,
+                "count": 8,
+                "avg_number_probs": 0.38156713359057903,
+                "avg_filtre_confidence": 0.38156713359057903
+            },
+            {
+                "number": 28,
+                "count": 7,
+                "avg_number_probs": 0.4828249386378697,
+                "avg_filtre_confidence": 0.4828249386378697
+            }
+        ]
+    },
+    "1566": {
+        "appearances": 52,
+        "top3": [
+            {
+                "number": 0,
+                "count": 34,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.05390857531570313
+            },
+            {
+                "number": 24,
+                "count": 3,
+                "avg_number_probs": 0.5563516120115916,
+                "avg_filtre_confidence": 0.5563516120115916
+            },
+            {
+                "number": 28,
+                "count": 3,
+                "avg_number_probs": 0.43485793471336365,
+                "avg_filtre_confidence": 0.43485793471336365
+            }
+        ]
+    },
+    "1570": {
+        "appearances": 220,
+        "top3": [
+            {
+                "number": 0,
+                "count": 220,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 4.634081238655728e-05
+            }
+        ]
+    },
+    "1577": {
+        "appearances": 209,
+        "top3": [
+            {
+                "number": 0,
+                "count": 209,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0007651324945977372
+            }
+        ]
+    },
+    "1578": {
+        "appearances": 25,
+        "top3": [
+            {
+                "number": 0,
+                "count": 24,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 7.727610457585836e-05
+            },
+            {
+                "number": 9,
+                "count": 1,
+                "avg_number_probs": 0.3649376928806305,
+                "avg_filtre_confidence": 0.3649376928806305
+            }
+        ]
+    },
+    "1581": {
+        "appearances": 3,
+        "top3": [
+            {
+                "number": 0,
+                "count": 3,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 6.401684610561157e-07
+            }
+        ]
+    },
+    "1584": {
+        "appearances": 26,
+        "top3": [
+            {
+                "number": 0,
+                "count": 26,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.002084739603782193
+            }
+        ]
+    },
+    "1585": {
+        "appearances": 157,
+        "top3": [
+            {
+                "number": 0,
+                "count": 147,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.007701060267289559
+            },
+            {
+                "number": 9,
+                "count": 4,
+                "avg_number_probs": 0.3316119611263275,
+                "avg_filtre_confidence": 0.3316119611263275
+            },
+            {
+                "number": 7,
+                "count": 3,
+                "avg_number_probs": 0.4170586367448171,
+                "avg_filtre_confidence": 0.4170586367448171
+            }
+        ]
+    },
+    "1588": {
+        "appearances": 52,
+        "top3": [
+            {
+                "number": 0,
+                "count": 52,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 2.882961282717307e-05
+            }
+        ]
+    },
+    "1589": {
+        "appearances": 23,
+        "top3": [
+            {
+                "number": 0,
+                "count": 23,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0036466181951838907
+            }
+        ]
+    },
+    "1590": {
+        "appearances": 1,
+        "top3": [
+            {
+                "number": 0,
+                "count": 1,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 5.791916279918041e-09
+            }
+        ]
+    },
+    "1593": {
+        "appearances": 68,
+        "top3": [
+            {
+                "number": 0,
+                "count": 61,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.029325912645409513
+            },
+            {
+                "number": 5,
+                "count": 5,
+                "avg_number_probs": 0.3019348353147507,
+                "avg_filtre_confidence": 0.3019348353147507
+            },
+            {
+                "number": 23,
+                "count": 1,
+                "avg_number_probs": 0.1533607393503189,
+                "avg_filtre_confidence": 0.1533607393503189
+            }
+        ]
+    },
+    "1596": {
+        "appearances": 36,
+        "top3": [
+            {
+                "number": 0,
+                "count": 34,
+                "avg_number_probs": 0.0,
+                "avg_filtre_confidence": 0.0013830282819111894
+            },
+            {
+                "number": 15,
+                "count": 2,
+                "avg_number_probs": 0.5679764002561569,
+                "avg_filtre_confidence": 0.5679764002561569
+            }
+        ]
+    }
+}

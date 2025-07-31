@@ -201,7 +201,7 @@ cython_debug/
 *.DS_Store
 *.pth
 
-results_video/tracklet_video/
+results_video/
 results/
 data/
 results_video1/

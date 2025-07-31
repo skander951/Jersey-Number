@@ -2,108 +2,108 @@
     "batch_logs": [
         {
             "frame_id": 0,
-            "batch_size": 14,
-            "batch_prep_time": 0.014,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0322,
+            "batch_size": 17,
+            "batch_prep_time": 0.0149,
+            "filter_model_inference_time": 0.1323,
+            "filter_post_processing_time": 0.1323,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0157
+            "number_prediction_time": 0.0878
         },
         {
             "frame_id": 1,
             "batch_size": 17,
-            "batch_prep_time": 0.0303,
-            "filter_model_inference_time": 0.0061,
-            "filter_post_processing_time": 0.033,
+            "batch_prep_time": 0.0156,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.004,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0183
+            "number_prediction_time": 0.0122
         },
         {
             "frame_id": 2,
             "batch_size": 17,
-            "batch_prep_time": 0.0057,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0265,
+            "batch_prep_time": 0.0214,
+            "filter_model_inference_time": 0.004,
+            "filter_post_processing_time": 0.004,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.01
         },
         {
             "frame_id": 3,
             "batch_size": 16,
-            "batch_prep_time": 0.0159,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0157,
+            "batch_prep_time": 0.0167,
+            "filter_model_inference_time": 0.0171,
+            "filter_post_processing_time": 0.0181,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0157
+            "number_prediction_time": 0.0081
         },
         {
             "frame_id": 4,
             "batch_size": 17,
-            "batch_prep_time": 0.0159,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0159,
+            "batch_prep_time": 0.0115,
+            "filter_model_inference_time": 0.0042,
+            "filter_post_processing_time": 0.0042,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0156
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 5,
             "batch_size": 17,
-            "batch_prep_time": 0.0109,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0223,
+            "batch_prep_time": 0.0167,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.003,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 6,
             "batch_size": 17,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0105,
-            "filter_post_processing_time": 0.0206,
+            "batch_prep_time": 0.0171,
+            "filter_model_inference_time": 0.0033,
+            "filter_post_processing_time": 0.0043,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 7,
             "batch_size": 18,
-            "batch_prep_time": 0.0165,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0145,
+            "batch_prep_time": 0.0143,
+            "filter_model_inference_time": 0.0171,
+            "filter_post_processing_time": 0.0171,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 8,
             "batch_size": 18,
-            "batch_prep_time": 0.0159,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0201,
-            "valid_inputs": 1,
-            "number_prediction_time": 0.0115
+            "batch_prep_time": 0.0196,
+            "filter_model_inference_time": 0.0022,
+            "filter_post_processing_time": 0.0032,
+            "valid_inputs": 2,
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 9,
             "batch_size": 18,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0204,
+            "batch_prep_time": 0.0174,
+            "filter_model_inference_time": 0.0037,
+            "filter_post_processing_time": 0.0047,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 10,
             "batch_size": 18,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0202,
+            "batch_prep_time": 0.0065,
+            "filter_model_inference_time": 0.0093,
+            "filter_post_processing_time": 0.0093,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 11,
             "batch_size": 17,
-            "batch_prep_time": 0.0183,
-            "filter_model_inference_time": 0.002,
+            "batch_prep_time": 0.0044,
+            "filter_model_inference_time": 0.0125,
             "filter_post_processing_time": 0.0125,
             "valid_inputs": 0,
             "number_prediction_time": null
@@ -111,1996 +111,1996 @@
         {
             "frame_id": 12,
             "batch_size": 17,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0206,
+            "batch_prep_time": 0.0131,
+            "filter_model_inference_time": 0.0029,
+            "filter_post_processing_time": 0.0039,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 13,
             "batch_size": 17,
-            "batch_prep_time": 0.0115,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0188,
+            "batch_prep_time": 0.0104,
+            "filter_model_inference_time": 0.0128,
+            "filter_post_processing_time": 0.0128,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 14,
             "batch_size": 17,
-            "batch_prep_time": 0.0191,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0223,
+            "batch_prep_time": 0.0207,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.004,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 15,
             "batch_size": 14,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0205,
+            "batch_prep_time": 0.0102,
+            "filter_model_inference_time": 0.0351,
+            "filter_post_processing_time": 0.0361,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 16,
             "batch_size": 17,
-            "batch_prep_time": 0.0276,
-            "filter_model_inference_time": 0.0031,
-            "filter_post_processing_time": 0.0132,
+            "batch_prep_time": 0.0174,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0033,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0104
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 17,
             "batch_size": 17,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0207,
+            "batch_prep_time": 0.0166,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0041,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 18,
             "batch_size": 16,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0206,
+            "batch_prep_time": 0.0118,
+            "filter_model_inference_time": 0.0041,
+            "filter_post_processing_time": 0.0041,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0104
+            "number_prediction_time": 0.0068
         },
         {
             "frame_id": 19,
             "batch_size": 18,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0208,
+            "batch_prep_time": 0.0204,
+            "filter_model_inference_time": 0.0027,
+            "filter_post_processing_time": 0.0037,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 20,
             "batch_size": 18,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0089,
-            "filter_post_processing_time": 0.0207,
+            "batch_prep_time": 0.0205,
+            "filter_model_inference_time": 0.0032,
+            "filter_post_processing_time": 0.0042,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 21,
             "batch_size": 17,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0206,
+            "batch_prep_time": 0.0186,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.003,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0106
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 22,
             "batch_size": 17,
-            "batch_prep_time": 0.0194,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0075,
+            "filter_model_inference_time": 0.0118,
+            "filter_post_processing_time": 0.0128,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0103
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 23,
             "batch_size": 18,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0132,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.004,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0105
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 24,
             "batch_size": 15,
-            "batch_prep_time": 0.0174,
-            "filter_model_inference_time": 0.0026,
-            "filter_post_processing_time": 0.0026,
+            "batch_prep_time": 0.0,
+            "filter_model_inference_time": 0.0239,
+            "filter_post_processing_time": 0.0239,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 25,
             "batch_size": 18,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0152,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.003,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0142
+            "number_prediction_time": 0.0091
         },
         {
             "frame_id": 26,
             "batch_size": 18,
-            "batch_prep_time": 0.0085,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0173,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0031,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0103
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 27,
             "batch_size": 18,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0215,
+            "filter_model_inference_time": 0.0033,
+            "filter_post_processing_time": 0.0033,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0104
+            "number_prediction_time": 0.0071
         },
         {
             "frame_id": 28,
             "batch_size": 19,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
+            "batch_prep_time": 0.0154,
+            "filter_model_inference_time": 0.0133,
+            "filter_post_processing_time": 0.0144,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0073
+            "number_prediction_time": 0.0056
         },
         {
             "frame_id": 29,
             "batch_size": 18,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0113,
+            "filter_model_inference_time": 0.0036,
+            "filter_post_processing_time": 0.0046,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.0091
         },
         {
             "frame_id": 30,
             "batch_size": 18,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0154,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.004,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0137
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 31,
             "batch_size": 18,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0104,
+            "filter_model_inference_time": 0.0129,
+            "filter_post_processing_time": 0.0129,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.0071
         },
         {
             "frame_id": 32,
             "batch_size": 17,
-            "batch_prep_time": 0.0088,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0125,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.003,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 33,
             "batch_size": 17,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0183,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0031,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.009
         },
         {
             "frame_id": 34,
             "batch_size": 17,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0201,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.003,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 35,
             "batch_size": 16,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.01,
+            "filter_model_inference_time": 0.012,
+            "filter_post_processing_time": 0.013,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 36,
             "batch_size": 17,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0102,
+            "filter_model_inference_time": 0.0118,
+            "filter_post_processing_time": 0.0128,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0103
+            "number_prediction_time": 0.0101
         },
         {
             "frame_id": 37,
             "batch_size": 17,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0067,
+            "batch_prep_time": 0.0115,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.003,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0035
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 38,
             "batch_size": 18,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0175,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0041,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 39,
             "batch_size": 16,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0101,
+            "filter_model_inference_time": 0.0057,
+            "filter_post_processing_time": 0.0057,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0104
+            "number_prediction_time": 0.0091
         },
         {
             "frame_id": 40,
             "batch_size": 17,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0104,
-            "filter_post_processing_time": 0.0161,
+            "batch_prep_time": 0.0138,
+            "filter_model_inference_time": 0.004,
+            "filter_post_processing_time": 0.004,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0047
+            "number_prediction_time": 0.0092
         },
         {
             "frame_id": 41,
             "batch_size": 16,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0102,
+            "filter_model_inference_time": 0.0024,
+            "filter_post_processing_time": 0.0034,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 42,
             "batch_size": 16,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0101,
+            "filter_model_inference_time": 0.0103,
+            "filter_post_processing_time": 0.0122,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 43,
             "batch_size": 17,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0136,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.005,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0206
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 44,
             "batch_size": 17,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0104,
+            "filter_model_inference_time": 0.0106,
+            "filter_post_processing_time": 0.0136,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0205
+            "number_prediction_time": 0.0065
         },
         {
             "frame_id": 45,
             "batch_size": 15,
-            "batch_prep_time": 0.0081,
-            "filter_model_inference_time": 0.0105,
-            "filter_post_processing_time": 0.0105,
+            "batch_prep_time": 0.0122,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0053,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 46,
             "batch_size": 16,
-            "batch_prep_time": 0.0128,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0079,
+            "batch_prep_time": 0.0149,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.005,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0087
         },
         {
             "frame_id": 47,
             "batch_size": 16,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0069,
+            "batch_prep_time": 0.0109,
+            "filter_model_inference_time": 0.0118,
+            "filter_post_processing_time": 0.0148,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0093
         },
         {
             "frame_id": 48,
             "batch_size": 16,
-            "batch_prep_time": 0.0173,
-            "filter_model_inference_time": 0.0033,
-            "filter_post_processing_time": 0.0089,
+            "batch_prep_time": 0.0164,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0061,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0048
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 49,
             "batch_size": 16,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0204,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.006,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0103
+            "number_prediction_time": 0.009
         },
         {
             "frame_id": 50,
             "batch_size": 17,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.01,
-            "filter_post_processing_time": 0.01,
+            "batch_prep_time": 0.0101,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0061,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0161
+            "number_prediction_time": 0.008
         },
         {
             "frame_id": 51,
             "batch_size": 20,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
+            "batch_prep_time": 0.0136,
+            "filter_model_inference_time": 0.0126,
+            "filter_post_processing_time": 0.0136,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.008
         },
         {
             "frame_id": 52,
             "batch_size": 20,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0125,
+            "filter_model_inference_time": 0.004,
+            "filter_post_processing_time": 0.007,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.0103
         },
         {
             "frame_id": 53,
             "batch_size": 20,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0,
+            "batch_prep_time": 0.0147,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.007,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 54,
             "batch_size": 18,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0203,
+            "filter_model_inference_time": 0.0033,
+            "filter_post_processing_time": 0.0063,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0104
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 55,
             "batch_size": 18,
-            "batch_prep_time": 0.0085,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0101,
+            "batch_prep_time": 0.0169,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0071,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0103
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 56,
             "batch_size": 17,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0162,
+            "filter_model_inference_time": 0.0037,
+            "filter_post_processing_time": 0.0077,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 57,
             "batch_size": 17,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0129,
+            "filter_model_inference_time": 0.0019,
+            "filter_post_processing_time": 0.0069,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0104
+            "number_prediction_time": 0.0062
         },
         {
             "frame_id": 58,
             "batch_size": 18,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0122,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.007,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 59,
             "batch_size": 19,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0106,
-            "filter_post_processing_time": 0.0106,
+            "batch_prep_time": 0.016,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0071,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 60,
             "batch_size": 19,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0194,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0081,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0053
         },
         {
             "frame_id": 61,
             "batch_size": 18,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0109,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0071,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 62,
             "batch_size": 18,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0113,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.007,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 63,
             "batch_size": 21,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0104,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0228,
+            "filter_model_inference_time": 0.0121,
+            "filter_post_processing_time": 0.0121,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 64,
             "batch_size": 21,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0146,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0091,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0105
+            "number_prediction_time": 0.0075
         },
         {
             "frame_id": 65,
             "batch_size": 21,
-            "batch_prep_time": 0.0062,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0204,
+            "batch_prep_time": 0.0183,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.01,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0034
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 66,
             "batch_size": 21,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0146,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0102,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0104
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 67,
             "batch_size": 21,
-            "batch_prep_time": 0.0225,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0195,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.009,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 68,
             "batch_size": 21,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0203,
+            "batch_prep_time": 0.0167,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.009,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0105
+            "number_prediction_time": 0.0071
         },
         {
             "frame_id": 69,
             "batch_size": 19,
-            "batch_prep_time": 0.0166,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0103,
+            "filter_model_inference_time": 0.0109,
+            "filter_post_processing_time": 0.0169,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 70,
             "batch_size": 23,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0207,
+            "batch_prep_time": 0.0175,
+            "filter_model_inference_time": 0.0141,
+            "filter_post_processing_time": 0.0141,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0055
         },
         {
             "frame_id": 71,
             "batch_size": 21,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0106,
-            "filter_post_processing_time": 0.0209,
+            "batch_prep_time": 0.0176,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0102,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 72,
             "batch_size": 21,
-            "batch_prep_time": 0.0209,
-            "filter_model_inference_time": 0.0065,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0204,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0102,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0158
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 73,
             "batch_size": 23,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0213,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0101,
             "valid_inputs": 5,
-            "number_prediction_time": 0.01
+            "number_prediction_time": 0.0055
         },
         {
             "frame_id": 74,
             "batch_size": 21,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0192,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0103,
             "valid_inputs": 6,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.0071
         },
         {
             "frame_id": 75,
             "batch_size": 21,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
+            "batch_prep_time": 0.0204,
+            "filter_model_inference_time": 0.002,
             "filter_post_processing_time": 0.0102,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 76,
             "batch_size": 22,
-            "batch_prep_time": 0.0211,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0138,
+            "filter_model_inference_time": 0.0128,
+            "filter_post_processing_time": 0.0128,
             "valid_inputs": 6,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 77,
             "batch_size": 22,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
+            "batch_prep_time": 0.0186,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0101,
             "valid_inputs": 6,
-            "number_prediction_time": 0.0105
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 78,
             "batch_size": 25,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0203,
-            "filter_post_processing_time": 0.024,
+            "batch_prep_time": 0.0196,
+            "filter_model_inference_time": 0.0131,
+            "filter_post_processing_time": 0.0141,
             "valid_inputs": 6,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0055
         },
         {
             "frame_id": 79,
             "batch_size": 23,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
+            "batch_prep_time": 0.0185,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0111,
             "valid_inputs": 6,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 80,
             "batch_size": 26,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0203,
-            "filter_post_processing_time": 0.0203,
+            "batch_prep_time": 0.0255,
+            "filter_model_inference_time": 0.0141,
+            "filter_post_processing_time": 0.0141,
             "valid_inputs": 7,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 81,
             "batch_size": 24,
-            "batch_prep_time": 0.0186,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0202,
+            "batch_prep_time": 0.0235,
+            "filter_model_inference_time": 0.0204,
+            "filter_post_processing_time": 0.0214,
             "valid_inputs": 6,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0063
         },
         {
             "frame_id": 82,
             "batch_size": 24,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0205,
+            "batch_prep_time": 0.0174,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.011,
             "valid_inputs": 6,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 83,
             "batch_size": 25,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0181,
+            "batch_prep_time": 0.0101,
+            "filter_model_inference_time": 0.0091,
+            "filter_post_processing_time": 0.0182,
             "valid_inputs": 6,
-            "number_prediction_time": 0.001
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 84,
             "batch_size": 25,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.002,
-            "filter_post_processing_time": 0.0142,
+            "batch_prep_time": 0.0163,
+            "filter_model_inference_time": 0.004,
+            "filter_post_processing_time": 0.015,
             "valid_inputs": 7,
-            "number_prediction_time": 0.0045
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 85,
             "batch_size": 25,
             "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.013,
             "valid_inputs": 5,
-            "number_prediction_time": 0.005
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 86,
             "batch_size": 25,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0046,
-            "filter_post_processing_time": 0.01,
+            "batch_prep_time": 0.0225,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0122,
             "valid_inputs": 6,
-            "number_prediction_time": 0.0103
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 87,
             "batch_size": 25,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 3,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 88,
-            "batch_size": 24,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0106,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 89,
-            "batch_size": 22,
-            "batch_prep_time": 0.0209,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0206,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 90,
-            "batch_size": 24,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 91,
-            "batch_size": 23,
-            "batch_prep_time": 0.0148,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 92,
-            "batch_size": 23,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0207,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 93,
-            "batch_size": 25,
-            "batch_prep_time": 0.0106,
-            "filter_model_inference_time": 0.0104,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 94,
-            "batch_size": 27,
-            "batch_prep_time": 0.0208,
-            "filter_model_inference_time": 0.0205,
-            "filter_post_processing_time": 0.0214,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 95,
-            "batch_size": 24,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.01
-        },
-        {
-            "frame_id": 96,
-            "batch_size": 23,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0123
-        },
-        {
-            "frame_id": 97,
-            "batch_size": 23,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 98,
-            "batch_size": 26,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 99,
-            "batch_size": 26,
-            "batch_prep_time": 0.0142,
-            "filter_model_inference_time": 0.0104,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0206
-        },
-        {
-            "frame_id": 100,
-            "batch_size": 27,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 8,
-            "number_prediction_time": 0.0102
-        },
-        {
-            "frame_id": 101,
-            "batch_size": 28,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0205,
-            "filter_post_processing_time": 0.0205,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 102,
-            "batch_size": 28,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0105
-        },
-        {
-            "frame_id": 103,
-            "batch_size": 26,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0221
-        },
-        {
-            "frame_id": 104,
-            "batch_size": 26,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0204,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0048
-        },
-        {
-            "frame_id": 105,
-            "batch_size": 26,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0116,
-            "filter_post_processing_time": 0.0206,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 106,
-            "batch_size": 25,
-            "batch_prep_time": 0.0202,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 3,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 107,
-            "batch_size": 25,
-            "batch_prep_time": 0.0169,
-            "filter_model_inference_time": 0.0019,
-            "filter_post_processing_time": 0.0042,
-            "valid_inputs": 3,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 108,
-            "batch_size": 26,
-            "batch_prep_time": 0.0306,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0106,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0106
-        },
-        {
-            "frame_id": 109,
-            "batch_size": 26,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0207,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 110,
-            "batch_size": 25,
-            "batch_prep_time": 0.0156,
-            "filter_model_inference_time": 0.0081,
-            "filter_post_processing_time": 0.0183,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 111,
-            "batch_size": 26,
-            "batch_prep_time": 0.0119,
-            "filter_model_inference_time": 0.0084,
-            "filter_post_processing_time": 0.0185,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 112,
-            "batch_size": 26,
-            "batch_prep_time": 0.034,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0143,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0038
-        },
-        {
-            "frame_id": 113,
-            "batch_size": 29,
-            "batch_prep_time": 0.0183,
-            "filter_model_inference_time": 0.0206,
-            "filter_post_processing_time": 0.0206,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0105
-        },
-        {
-            "frame_id": 114,
-            "batch_size": 31,
-            "batch_prep_time": 0.0305,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0033
-        },
-        {
-            "frame_id": 115,
-            "batch_size": 30,
-            "batch_prep_time": 0.0312,
-            "filter_model_inference_time": 0.0104,
-            "filter_post_processing_time": 0.0204,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 116,
-            "batch_size": 28,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0103,
-            "filter_post_processing_time": 0.0203,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 117,
-            "batch_size": 28,
-            "batch_prep_time": 0.0169,
-            "filter_model_inference_time": 0.0038,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 7,
-            "number_prediction_time": 0.0053
-        },
-        {
-            "frame_id": 118,
-            "batch_size": 26,
-            "batch_prep_time": 0.0184,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 119,
-            "batch_size": 23,
-            "batch_prep_time": 0.0106,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 120,
-            "batch_size": 23,
-            "batch_prep_time": 0.0284,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0122,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0081
-        },
-        {
-            "frame_id": 121,
-            "batch_size": 24,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 122,
-            "batch_size": 24,
-            "batch_prep_time": 0.0209,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 123,
-            "batch_size": 21,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 124,
-            "batch_size": 23,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 7,
-            "number_prediction_time": 0.0124
-        },
-        {
-            "frame_id": 125,
-            "batch_size": 27,
-            "batch_prep_time": 0.0208,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 8,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 126,
-            "batch_size": 27,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 7,
-            "number_prediction_time": 0.0104
-        },
-        {
-            "frame_id": 127,
-            "batch_size": 26,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 7,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 128,
-            "batch_size": 25,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 9,
-            "number_prediction_time": 0.0102
-        },
-        {
-            "frame_id": 129,
-            "batch_size": 25,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0029
-        },
-        {
-            "frame_id": 130,
-            "batch_size": 27,
-            "batch_prep_time": 0.0208,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 131,
-            "batch_size": 25,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 132,
-            "batch_size": 25,
-            "batch_prep_time": 0.0078,
-            "filter_model_inference_time": 0.0105,
-            "filter_post_processing_time": 0.0208,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 133,
-            "batch_size": 27,
-            "batch_prep_time": 0.0308,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 7,
-            "number_prediction_time": 0.0105
-        },
-        {
-            "frame_id": 134,
-            "batch_size": 26,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0204,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 135,
-            "batch_size": 27,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0203,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0104
-        },
-        {
-            "frame_id": 136,
-            "batch_size": 26,
-            "batch_prep_time": 0.0187,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0071
-        },
-        {
-            "frame_id": 137,
-            "batch_size": 26,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0141,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0065
-        },
-        {
-            "frame_id": 138,
-            "batch_size": 27,
-            "batch_prep_time": 0.0222,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0085,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.01
-        },
-        {
-            "frame_id": 139,
-            "batch_size": 27,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0206,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 140,
-            "batch_size": 28,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0205,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 141,
-            "batch_size": 28,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0139,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0048
-        },
-        {
-            "frame_id": 142,
-            "batch_size": 27,
-            "batch_prep_time": 0.0264,
-            "filter_model_inference_time": 0.008,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0201
-        },
-        {
-            "frame_id": 143,
-            "batch_size": 29,
-            "batch_prep_time": 0.0208,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 144,
-            "batch_size": 29,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0204,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 145,
-            "batch_size": 27,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0041,
-            "filter_post_processing_time": 0.0143,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0064
-        },
-        {
-            "frame_id": 146,
-            "batch_size": 28,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 7,
-            "number_prediction_time": 0.0203
-        },
-        {
-            "frame_id": 147,
-            "batch_size": 28,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0203,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 148,
-            "batch_size": 26,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0102
-        },
-        {
-            "frame_id": 149,
-            "batch_size": 27,
-            "batch_prep_time": 0.0202,
-            "filter_model_inference_time": 0.0104,
-            "filter_post_processing_time": 0.0206,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 150,
-            "batch_size": 26,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 151,
-            "batch_size": 26,
-            "batch_prep_time": 0.0202,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 7,
-            "number_prediction_time": 0.0102
-        },
-        {
-            "frame_id": 152,
-            "batch_size": 26,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 7,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 153,
-            "batch_size": 24,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 154,
-            "batch_size": 25,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 155,
-            "batch_size": 22,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0049,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 156,
-            "batch_size": 24,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0203,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0104
-        },
-        {
-            "frame_id": 157,
-            "batch_size": 25,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 3,
-            "number_prediction_time": 0.0105
-        },
-        {
-            "frame_id": 158,
-            "batch_size": 22,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0104,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0102
-        },
-        {
-            "frame_id": 159,
-            "batch_size": 23,
-            "batch_prep_time": 0.0106,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0104
-        },
-        {
-            "frame_id": 160,
-            "batch_size": 24,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 161,
-            "batch_size": 23,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0104
-        },
-        {
-            "frame_id": 162,
-            "batch_size": 23,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.01,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 163,
-            "batch_size": 23,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 164,
-            "batch_size": 23,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0102,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0101
-        },
-        {
-            "frame_id": 165,
-            "batch_size": 24,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0105,
-            "filter_post_processing_time": 0.021,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.0102
-        },
-        {
-            "frame_id": 166,
-            "batch_size": 24,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
-            "valid_inputs": 5,
-            "number_prediction_time": 0.01
-        },
-        {
-            "frame_id": 167,
-            "batch_size": 24,
-            "batch_prep_time": 0.0163,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
-            "valid_inputs": 6,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 168,
-            "batch_size": 23,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0106,
-            "valid_inputs": 3,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 169,
-            "batch_size": 22,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0104
-        },
-        {
-            "frame_id": 170,
-            "batch_size": 22,
-            "batch_prep_time": 0.0159,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0045,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0103
-        },
-        {
-            "frame_id": 171,
-            "batch_size": 23,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 3,
-            "number_prediction_time": 0.0
-        },
-        {
-            "frame_id": 172,
-            "batch_size": 23,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0102
-        },
-        {
-            "frame_id": 173,
-            "batch_size": 23,
-            "batch_prep_time": 0.0164,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.0102
-        },
-        {
-            "frame_id": 174,
-            "batch_size": 22,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
-            "valid_inputs": 3,
-            "number_prediction_time": 0.0141
-        },
-        {
-            "frame_id": 175,
-            "batch_size": 22,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0207,
-            "valid_inputs": 4,
-            "number_prediction_time": 0.01
-        },
-        {
-            "frame_id": 176,
-            "batch_size": 23,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
+            "batch_prep_time": 0.0174,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.013,
             "valid_inputs": 3,
             "number_prediction_time": 0.006
         },
         {
+            "frame_id": 88,
+            "batch_size": 24,
+            "batch_prep_time": 0.0161,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 89,
+            "batch_size": 22,
+            "batch_prep_time": 0.0181,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0119,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.0081
+        },
+        {
+            "frame_id": 90,
+            "batch_size": 24,
+            "batch_prep_time": 0.0248,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.013,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 91,
+            "batch_size": 23,
+            "batch_prep_time": 0.0144,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0111,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.0061
+        },
+        {
+            "frame_id": 92,
+            "batch_size": 23,
+            "batch_prep_time": 0.0216,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 93,
+            "batch_size": 25,
+            "batch_prep_time": 0.0203,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0131,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 94,
+            "batch_size": 27,
+            "batch_prep_time": 0.022,
+            "filter_model_inference_time": 0.0121,
+            "filter_post_processing_time": 0.0152,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 95,
+            "batch_size": 24,
+            "batch_prep_time": 0.0215,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 96,
+            "batch_size": 23,
+            "batch_prep_time": 0.0169,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0113,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.0061
+        },
+        {
+            "frame_id": 97,
+            "batch_size": 23,
+            "batch_prep_time": 0.0155,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 98,
+            "batch_size": 26,
+            "batch_prep_time": 0.0198,
+            "filter_model_inference_time": 0.0022,
+            "filter_post_processing_time": 0.0123,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 99,
+            "batch_size": 26,
+            "batch_prep_time": 0.0249,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 100,
+            "batch_size": 27,
+            "batch_prep_time": 0.0234,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0122,
+            "valid_inputs": 8,
+            "number_prediction_time": 0.008
+        },
+        {
+            "frame_id": 101,
+            "batch_size": 28,
+            "batch_prep_time": 0.0285,
+            "filter_model_inference_time": 0.0143,
+            "filter_post_processing_time": 0.0153,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 102,
+            "batch_size": 28,
+            "batch_prep_time": 0.021,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0122,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.0061
+        },
+        {
+            "frame_id": 103,
+            "batch_size": 26,
+            "batch_prep_time": 0.0175,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 104,
+            "batch_size": 26,
+            "batch_prep_time": 0.0173,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 105,
+            "batch_size": 26,
+            "batch_prep_time": 0.0172,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0115,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.0071
+        },
+        {
+            "frame_id": 106,
+            "batch_size": 25,
+            "batch_prep_time": 0.0092,
+            "filter_model_inference_time": 0.0089,
+            "filter_post_processing_time": 0.018,
+            "valid_inputs": 3,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 107,
+            "batch_size": 25,
+            "batch_prep_time": 0.0216,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 3,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 108,
+            "batch_size": 26,
+            "batch_prep_time": 0.019,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0122,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 109,
+            "batch_size": 26,
+            "batch_prep_time": 0.0205,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 110,
+            "batch_size": 25,
+            "batch_prep_time": 0.0191,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.0071
+        },
+        {
+            "frame_id": 111,
+            "batch_size": 26,
+            "batch_prep_time": 0.017,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 112,
+            "batch_size": 26,
+            "batch_prep_time": 0.0257,
+            "filter_model_inference_time": 0.0029,
+            "filter_post_processing_time": 0.0129,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 113,
+            "batch_size": 29,
+            "batch_prep_time": 0.0256,
+            "filter_model_inference_time": 0.0121,
+            "filter_post_processing_time": 0.0171,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 114,
+            "batch_size": 31,
+            "batch_prep_time": 0.0233,
+            "filter_model_inference_time": 0.0133,
+            "filter_post_processing_time": 0.0163,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 115,
+            "batch_size": 30,
+            "batch_prep_time": 0.0234,
+            "filter_model_inference_time": 0.0131,
+            "filter_post_processing_time": 0.0151,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 116,
+            "batch_size": 28,
+            "batch_prep_time": 0.0257,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0131,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 117,
+            "batch_size": 28,
+            "batch_prep_time": 0.0175,
+            "filter_model_inference_time": 0.0022,
+            "filter_post_processing_time": 0.0134,
+            "valid_inputs": 7,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 118,
+            "batch_size": 26,
+            "batch_prep_time": 0.0193,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.013,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 119,
+            "batch_size": 23,
+            "batch_prep_time": 0.0235,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 120,
+            "batch_size": 23,
+            "batch_prep_time": 0.0153,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 121,
+            "batch_size": 24,
+            "batch_prep_time": 0.0238,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0115,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.0061
+        },
+        {
+            "frame_id": 122,
+            "batch_size": 24,
+            "batch_prep_time": 0.0228,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0112,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 123,
+            "batch_size": 21,
+            "batch_prep_time": 0.0173,
+            "filter_model_inference_time": 0.0032,
+            "filter_post_processing_time": 0.0112,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 124,
+            "batch_size": 23,
+            "batch_prep_time": 0.0227,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.011,
+            "valid_inputs": 7,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 125,
+            "batch_size": 27,
+            "batch_prep_time": 0.0195,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 8,
+            "number_prediction_time": 0.0061
+        },
+        {
+            "frame_id": 126,
+            "batch_size": 27,
+            "batch_prep_time": 0.0224,
+            "filter_model_inference_time": 0.0019,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 7,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 127,
+            "batch_size": 26,
+            "batch_prep_time": 0.0225,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 7,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 128,
+            "batch_size": 25,
+            "batch_prep_time": 0.0153,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0117,
+            "valid_inputs": 9,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 129,
+            "batch_size": 25,
+            "batch_prep_time": 0.0224,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0111,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 130,
+            "batch_size": 27,
+            "batch_prep_time": 0.0205,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0122,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.0052
+        },
+        {
+            "frame_id": 131,
+            "batch_size": 25,
+            "batch_prep_time": 0.0176,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 132,
+            "batch_size": 25,
+            "batch_prep_time": 0.0237,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0112,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 133,
+            "batch_size": 27,
+            "batch_prep_time": 0.0204,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 7,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 134,
+            "batch_size": 26,
+            "batch_prep_time": 0.0238,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 135,
+            "batch_size": 27,
+            "batch_prep_time": 0.0195,
+            "filter_model_inference_time": 0.0026,
+            "filter_post_processing_time": 0.0127,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 136,
+            "batch_size": 26,
+            "batch_prep_time": 0.0267,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 137,
+            "batch_size": 26,
+            "batch_prep_time": 0.0243,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 138,
+            "batch_size": 27,
+            "batch_prep_time": 0.0196,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0121,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 139,
+            "batch_size": 27,
+            "batch_prep_time": 0.0241,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0122,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 140,
+            "batch_size": 28,
+            "batch_prep_time": 0.023,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0131,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 141,
+            "batch_size": 28,
+            "batch_prep_time": 0.0235,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0132,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 142,
+            "batch_size": 27,
+            "batch_prep_time": 0.0206,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.014,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 143,
+            "batch_size": 29,
+            "batch_prep_time": 0.0246,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0142,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 144,
+            "batch_size": 29,
+            "batch_prep_time": 0.0188,
+            "filter_model_inference_time": 0.0022,
+            "filter_post_processing_time": 0.0133,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 145,
+            "batch_size": 27,
+            "batch_prep_time": 0.0235,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0131,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 146,
+            "batch_size": 28,
+            "batch_prep_time": 0.0265,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.013,
+            "valid_inputs": 7,
+            "number_prediction_time": 0.0055
+        },
+        {
+            "frame_id": 147,
+            "batch_size": 28,
+            "batch_prep_time": 0.0189,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0132,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 148,
+            "batch_size": 26,
+            "batch_prep_time": 0.0196,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0111,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 149,
+            "batch_size": 27,
+            "batch_prep_time": 0.0176,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 150,
+            "batch_size": 26,
+            "batch_prep_time": 0.017,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.011,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 151,
+            "batch_size": 26,
+            "batch_prep_time": 0.0183,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.011,
+            "valid_inputs": 7,
+            "number_prediction_time": 0.0045
+        },
+        {
+            "frame_id": 152,
+            "batch_size": 26,
+            "batch_prep_time": 0.0162,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
+            "valid_inputs": 7,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 153,
+            "batch_size": 24,
+            "batch_prep_time": 0.0181,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0112,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 154,
+            "batch_size": 25,
+            "batch_prep_time": 0.0163,
+            "filter_model_inference_time": 0.0026,
+            "filter_post_processing_time": 0.0115,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 155,
+            "batch_size": 22,
+            "batch_prep_time": 0.0232,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0091,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 156,
+            "batch_size": 24,
+            "batch_prep_time": 0.0238,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.011,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 157,
+            "batch_size": 25,
+            "batch_prep_time": 0.0247,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0106,
+            "valid_inputs": 3,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 158,
+            "batch_size": 22,
+            "batch_prep_time": 0.02,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0101,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.0051
+        },
+        {
+            "frame_id": 159,
+            "batch_size": 23,
+            "batch_prep_time": 0.0155,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.01,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 160,
+            "batch_size": 24,
+            "batch_prep_time": 0.0166,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0102,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 161,
+            "batch_size": 23,
+            "batch_prep_time": 0.0235,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.01,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.0081
+        },
+        {
+            "frame_id": 162,
+            "batch_size": 23,
+            "batch_prep_time": 0.0177,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.01,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 163,
+            "batch_size": 23,
+            "batch_prep_time": 0.0203,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0101,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 164,
+            "batch_size": 23,
+            "batch_prep_time": 0.0221,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0093,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.006
+        },
+        {
+            "frame_id": 165,
+            "batch_size": 24,
+            "batch_prep_time": 0.0246,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0102,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.0079
+        },
+        {
+            "frame_id": 166,
+            "batch_size": 24,
+            "batch_prep_time": 0.0162,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.01,
+            "valid_inputs": 5,
+            "number_prediction_time": 0.0055
+        },
+        {
+            "frame_id": 167,
+            "batch_size": 24,
+            "batch_prep_time": 0.0181,
+            "filter_model_inference_time": 0.0022,
+            "filter_post_processing_time": 0.0101,
+            "valid_inputs": 6,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 168,
+            "batch_size": 23,
+            "batch_prep_time": 0.0193,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0101,
+            "valid_inputs": 3,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 169,
+            "batch_size": 22,
+            "batch_prep_time": 0.0216,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0101,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.007
+        },
+        {
+            "frame_id": 170,
+            "batch_size": 22,
+            "batch_prep_time": 0.0103,
+            "filter_model_inference_time": 0.0106,
+            "filter_post_processing_time": 0.0176,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.0061
+        },
+        {
+            "frame_id": 171,
+            "batch_size": 23,
+            "batch_prep_time": 0.0205,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0092,
+            "valid_inputs": 3,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 172,
+            "batch_size": 23,
+            "batch_prep_time": 0.0171,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.01,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 173,
+            "batch_size": 23,
+            "batch_prep_time": 0.016,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0101,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 174,
+            "batch_size": 22,
+            "batch_prep_time": 0.0213,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.01,
+            "valid_inputs": 3,
+            "number_prediction_time": 0.0052
+        },
+        {
+            "frame_id": 175,
+            "batch_size": 22,
+            "batch_prep_time": 0.0186,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0101,
+            "valid_inputs": 4,
+            "number_prediction_time": 0.005
+        },
+        {
+            "frame_id": 176,
+            "batch_size": 23,
+            "batch_prep_time": 0.0223,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0101,
+            "valid_inputs": 3,
+            "number_prediction_time": 0.0067
+        },
+        {
             "frame_id": 177,
             "batch_size": 23,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0203,
+            "batch_prep_time": 0.0184,
+            "filter_model_inference_time": 0.0032,
+            "filter_post_processing_time": 0.0103,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 178,
             "batch_size": 23,
-            "batch_prep_time": 0.0305,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0249,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.01,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0096
+            "number_prediction_time": 0.0071
         },
         {
             "frame_id": 179,
             "batch_size": 24,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0202,
+            "batch_prep_time": 0.0249,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0102,
             "valid_inputs": 4,
-            "number_prediction_time": 0.01
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 180,
             "batch_size": 22,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0156,
+            "batch_prep_time": 0.0234,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.009,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0048
+            "number_prediction_time": 0.0081
         },
         {
             "frame_id": 181,
             "batch_size": 21,
-            "batch_prep_time": 0.01,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0106,
+            "batch_prep_time": 0.0104,
+            "filter_model_inference_time": 0.0117,
+            "filter_post_processing_time": 0.0187,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0125
+            "number_prediction_time": 0.0052
         },
         {
             "frame_id": 182,
             "batch_size": 21,
-            "batch_prep_time": 0.006,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0202,
+            "batch_prep_time": 0.0184,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0112,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 183,
             "batch_size": 22,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.015,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 184,
             "batch_size": 22,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
+            "batch_prep_time": 0.0184,
+            "filter_model_inference_time": 0.0022,
+            "filter_post_processing_time": 0.0111,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 185,
             "batch_size": 21,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0114,
-            "filter_post_processing_time": 0.0203,
+            "batch_prep_time": 0.0208,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0111,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 186,
             "batch_size": 19,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
+            "batch_prep_time": 0.0202,
+            "filter_model_inference_time": 0.002,
             "filter_post_processing_time": 0.0101,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 187,
             "batch_size": 20,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0174,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0111,
             "valid_inputs": 5,
-            "number_prediction_time": 0.0106
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 188,
             "batch_size": 20,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0124,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0106,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0106
+            "number_prediction_time": 0.0061
         },
         {
             "frame_id": 189,
             "batch_size": 21,
-            "batch_prep_time": 0.0156,
-            "filter_model_inference_time": 0.0028,
-            "filter_post_processing_time": 0.0044,
+            "batch_prep_time": 0.0126,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0121,
             "valid_inputs": 6,
-            "number_prediction_time": 0.01
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 190,
             "batch_size": 22,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0125,
+            "batch_prep_time": 0.0167,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0112,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0082
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 191,
             "batch_size": 22,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
+            "batch_prep_time": 0.0141,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0121,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 192,
             "batch_size": 22,
-            "batch_prep_time": 0.0153,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0085,
+            "batch_prep_time": 0.0278,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.012,
             "valid_inputs": 4,
-            "number_prediction_time": 0.012
+            "number_prediction_time": 0.0071
         },
         {
             "frame_id": 193,
             "batch_size": 22,
-            "batch_prep_time": 0.0166,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0113,
+            "filter_model_inference_time": 0.0049,
+            "filter_post_processing_time": 0.0145,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 194,
             "batch_size": 22,
-            "batch_prep_time": 0.018,
-            "filter_model_inference_time": 0.0024,
-            "filter_post_processing_time": 0.0125,
+            "batch_prep_time": 0.0153,
+            "filter_model_inference_time": 0.0032,
+            "filter_post_processing_time": 0.0122,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0078
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 195,
             "batch_size": 20,
-            "batch_prep_time": 0.0161,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0044,
+            "batch_prep_time": 0.0137,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.011,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0106
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 196,
             "batch_size": 21,
-            "batch_prep_time": 0.0267,
-            "filter_model_inference_time": 0.002,
-            "filter_post_processing_time": 0.008,
+            "batch_prep_time": 0.0101,
+            "filter_model_inference_time": 0.0074,
+            "filter_post_processing_time": 0.0165,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 197,
             "batch_size": 22,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0142,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0121,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0081
         },
         {
             "frame_id": 198,
             "batch_size": 23,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
+            "batch_prep_time": 0.0215,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0122,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0052
         },
         {
             "frame_id": 199,
             "batch_size": 23,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.01,
-            "filter_post_processing_time": 0.0202,
+            "batch_prep_time": 0.0162,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0123,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0089
         },
         {
             "frame_id": 200,
             "batch_size": 23,
-            "batch_prep_time": 0.0217,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0081,
+            "batch_prep_time": 0.0184,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0043
+            "number_prediction_time": 0.0081
         },
         {
             "frame_id": 201,
             "batch_size": 20,
-            "batch_prep_time": 0.0101,
-            "filter_model_inference_time": 0.0105,
-            "filter_post_processing_time": 0.0105,
+            "batch_prep_time": 0.0145,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.01,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 202,
             "batch_size": 20,
-            "batch_prep_time": 0.0181,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
+            "batch_prep_time": 0.0203,
+            "filter_model_inference_time": 0.0032,
+            "filter_post_processing_time": 0.0118,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0067
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 203,
             "batch_size": 22,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0164,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 204,
             "batch_size": 21,
-            "batch_prep_time": 0.0147,
-            "filter_model_inference_time": 0.0058,
-            "filter_post_processing_time": 0.0058,
+            "batch_prep_time": 0.0155,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.012,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0032
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 205,
             "batch_size": 22,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0104,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0144,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0131,
             "valid_inputs": 2,
-            "number_prediction_time": 0.01
+            "number_prediction_time": 0.0055
         },
         {
             "frame_id": 206,
             "batch_size": 24,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0149,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.014,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0033
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 207,
             "batch_size": 24,
-            "batch_prep_time": 0.0103,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
+            "batch_prep_time": 0.0241,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.014,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 208,
             "batch_size": 23,
-            "batch_prep_time": 0.0105,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0236,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0135,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 209,
             "batch_size": 24,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0191,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0132,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0203
+            "number_prediction_time": 0.0081
         },
         {
             "frame_id": 210,
             "batch_size": 25,
-            "batch_prep_time": 0.0208,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0101,
+            "batch_prep_time": 0.0105,
+            "filter_model_inference_time": 0.0086,
+            "filter_post_processing_time": 0.0197,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0116
+            "number_prediction_time": 0.007
         },
         {
             "frame_id": 211,
             "batch_size": 24,
-            "batch_prep_time": 0.031,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0104,
+            "batch_prep_time": 0.0239,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0131,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 212,
             "batch_size": 24,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0235,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.014,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.0082
         },
         {
             "frame_id": 213,
             "batch_size": 23,
-            "batch_prep_time": 0.0104,
-            "filter_model_inference_time": 0.0101,
-            "filter_post_processing_time": 0.0206,
+            "batch_prep_time": 0.0216,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0132,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0105
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 214,
             "batch_size": 24,
-            "batch_prep_time": 0.0208,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0102,
+            "batch_prep_time": 0.0165,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0132,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 215,
             "batch_size": 24,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0125,
+            "batch_prep_time": 0.0228,
+            "filter_model_inference_time": 0.003,
+            "filter_post_processing_time": 0.0131,
             "valid_inputs": 0,
             "number_prediction_time": null
         },
         {
             "frame_id": 216,
             "batch_size": 23,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
+            "batch_prep_time": 0.0185,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0131,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0105
+            "number_prediction_time": 0.009
         },
         {
             "frame_id": 217,
             "batch_size": 23,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0103,
+            "batch_prep_time": 0.0228,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0122,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 218,
             "batch_size": 23,
-            "batch_prep_time": 0.0138,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0105,
+            "batch_prep_time": 0.0196,
+            "filter_model_inference_time": 0.0022,
+            "filter_post_processing_time": 0.0132,
             "valid_inputs": 1,
-            "number_prediction_time": 0.01
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 219,
             "batch_size": 22,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.01,
+            "batch_prep_time": 0.0177,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0126,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0103
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 220,
             "batch_size": 23,
-            "batch_prep_time": 0.0231,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0081,
+            "batch_prep_time": 0.0192,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0151,
             "valid_inputs": 3,
-            "number_prediction_time": 0.01
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 221,
             "batch_size": 24,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.01,
-            "filter_post_processing_time": 0.0203,
+            "batch_prep_time": 0.0214,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0151,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 222,
             "batch_size": 23,
-            "batch_prep_time": 0.0208,
-            "filter_model_inference_time": 0.0056,
-            "filter_post_processing_time": 0.0208,
+            "batch_prep_time": 0.0214,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0151,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 223,
             "batch_size": 23,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0028,
-            "filter_post_processing_time": 0.0305,
+            "batch_prep_time": 0.0171,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.014,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0105
+            "number_prediction_time": 0.0063
         },
         {
             "frame_id": 224,
             "batch_size": 20,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0208,
+            "batch_prep_time": 0.0114,
+            "filter_model_inference_time": 0.0019,
+            "filter_post_processing_time": 0.012,
             "valid_inputs": 4,
-            "number_prediction_time": 0.0101
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 225,
             "batch_size": 22,
-            "batch_prep_time": 0.0223,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0306,
+            "batch_prep_time": 0.0183,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0143,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0116
+            "number_prediction_time": 0.0051
         },
         {
             "frame_id": 226,
             "batch_size": 22,
-            "batch_prep_time": 0.0206,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0225,
+            "batch_prep_time": 0.0165,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.014,
             "valid_inputs": 4,
-            "number_prediction_time": 0.008
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 227,
             "batch_size": 23,
-            "batch_prep_time": 0.0207,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0318,
+            "batch_prep_time": 0.0194,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0141,
             "valid_inputs": 4,
-            "number_prediction_time": 0.003
+            "number_prediction_time": 0.0071
         },
         {
             "frame_id": 228,
             "batch_size": 22,
-            "batch_prep_time": 0.0204,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0311,
+            "batch_prep_time": 0.0151,
+            "filter_model_inference_time": 0.0019,
+            "filter_post_processing_time": 0.0124,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 229,
             "batch_size": 23,
-            "batch_prep_time": 0.0253,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0345,
+            "batch_prep_time": 0.0156,
+            "filter_model_inference_time": 0.0019,
+            "filter_post_processing_time": 0.0129,
             "valid_inputs": 3,
-            "number_prediction_time": 0.0061
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 230,
             "batch_size": 21,
-            "batch_prep_time": 0.0205,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0205,
+            "batch_prep_time": 0.0192,
+            "filter_model_inference_time": 0.0021,
+            "filter_post_processing_time": 0.0131,
             "valid_inputs": 2,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.006
         },
         {
             "frame_id": 231,
             "batch_size": 27,
-            "batch_prep_time": 0.0203,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.0315,
+            "batch_prep_time": 0.0209,
+            "filter_model_inference_time": 0.002,
+            "filter_post_processing_time": 0.0151,
             "valid_inputs": 1,
-            "number_prediction_time": 0.0102
+            "number_prediction_time": 0.005
         },
         {
             "frame_id": 232,
             "batch_size": 26,
-            "batch_prep_time": 0.0102,
-            "filter_model_inference_time": 0.0,
-            "filter_post_processing_time": 0.031,
+            "batch_prep_time": 0.0197,
+            "filter_model_inference_time": 0.0031,
+            "filter_post_processing_time": 0.0153,
             "valid_inputs": 0,
             "number_prediction_time": null
         }
     ],
-    "average_batch_prep_time": 0.016,
-    "average_filter_model_inference_time": 0.003,
-    "average_filter_post_processing_time": 0.0131,
-    "average_number_prediction_time": 0.0077,
-    "average_time_per_image": 0.001813
+    "average_batch_prep_time": 0.0179,
+    "average_filter_model_inference_time": 0.0046,
+    "average_filter_post_processing_time": 0.0116,
+    "average_number_prediction_time": 0.0065,
+    "average_time_per_image": 0.001862
 }

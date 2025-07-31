@@ -8,7 +8,7 @@ from collections import Counter
 from time import time
 from tqdm import tqdm
 
-base_path = "C:/Users/skouz/OneDrive/Documents/GitHub/jersey_id/"
+base_path = "C:/Users/skouz/OneDrive/Documents/Jersey-Number"
 pl_tr = PlayersTracker(base_path=base_path, track_thresh=0.9,track_buffer=100,match_thresh=0.9,frame_rate=25,minimum_consecutive_frames=1)
 
 def jersey_crop_image_prep(frame,bbox):

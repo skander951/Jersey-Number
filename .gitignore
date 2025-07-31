@@ -206,5 +206,9 @@ results_video/tracklet_video/
 results/weights/
 results/finetuned_models/
 data/
-
+results_video1/
+test1.py
+last.py
+hmm.py
+aff2.py
 

@@ -197,6 +197,7 @@ cython_debug/
 #
 *.jpg
 *.mp4
+*.png
 *.jpeg
 *.DS_Store
 *.pth

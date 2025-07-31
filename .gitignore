@@ -197,14 +197,12 @@ cython_debug/
 #
 *.jpg
 *.mp4
-*.png
 *.jpeg
 *.DS_Store
 *.pth
 
 results_video/tracklet_video/
-results/weights/
-results/finetuned_models/
+results/
 data/
 results_video1/
 test1.py

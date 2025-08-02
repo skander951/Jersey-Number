@@ -47,8 +47,8 @@ def batch_prep(image_list):
 def test_video(video_name,tracklet=False,skip_processed=False) :
 
     video_path = f"data/videos_diwan/{video_name}.mp4"
-    os.makedirs("results_video1/output_video", exist_ok=True)
-    output_path = f"results_video1/output_video/{video_name}2.mp4"
+    os.makedirs("video_top1_prediction/output_video", exist_ok=True)
+    output_path = f"video_top1_prediction/output_video/{video_name}2.mp4"
     chemin_model = "results/finetuned_models/ftd_dirichlet_thresh0.6.pth"
     filtre_model_path = "results/weights/filtre_thresh_0.9_basic_params_16.pth"
 
@@ -194,10 +194,10 @@ def test_video(video_name,tracklet=False,skip_processed=False) :
         }
 
 
-    os.makedirs("results_video1/tracklet_video", exist_ok=True)
+    os.makedirs("video_top1_prediction/tracklet_video", exist_ok=True)
 
     if tracklet:
-        tracklet_video_dir = f"results_video1/tracklet_video/{video_name}"
+        tracklet_video_dir = f"video_top1_prediction/tracklet_video/{video_name}"
         if os.path.exists(tracklet_video_dir):
             print(f"Skipping tracklets for {video_name}, already processed.")
         else:

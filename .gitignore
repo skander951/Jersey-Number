@@ -205,6 +205,6 @@ cython_debug/
 results_video/
 results/
 data/
-results_video1/
+video_top1_prediction/
 images/
 

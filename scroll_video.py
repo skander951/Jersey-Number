@@ -21,7 +21,7 @@ def get_top_predict(frames_numbers):
     filtered = [n for n in frames_numbers if n != 0]
     return Counter(filtered).most_common(1)[0][0] if filtered else 0
 
-def create_scroll_animation_with_fixed_window(tracklet_videos, output_path, step=320, max_width=5000):
+def create_scroll_animation_with_fixed_window(tracklet_videos, output_path, step=224, max_width=5000):
     all_frames = []
     top_predicts = []
 
@@ -73,7 +73,7 @@ def create_scroll_animation_with_fixed_window(tracklet_videos, output_path, step
                         continue
                     canvas[y_offset:y_offset+frame_height, xk:xk+frame_width] = frames[idx]
 
-            # Position du cadre mobile (bloqué après 21 pas)
+            # Position du cadre mobile (bloqué après "max_scroll_pos" pas)
             if t >= max_scroll_pos:
                 scroll_x = max_scroll_pos
             else:
@@ -96,9 +96,9 @@ def create_scroll_animation_with_fixed_window(tracklet_videos, output_path, step
 
 # === Test avec tes paths ===
 tracklet_paths = [
-    "results_video1/tracklet_video/chelsea/track_7.mp4",
-    "results_video1/tracklet_video/chelsea/track_11.mp4",
-    "results_video1/tracklet_video/chelsea/track_8.mp4"
+    "video_top1_prediction/tracklet_video/chelsea/track_7.mp4",
+    "video_top1_prediction/tracklet_video/chelsea/track_11.mp4",
+    "video_top1_prediction/tracklet_video/chelsea/track_8.mp4"
 ]
 
-create_scroll_animation_with_fixed_window(tracklet_paths, "scroll.mp4")
+create_scroll_animation_with_fixed_window(tracklet_paths, "video_top1_prediction/scroll.mp4")
